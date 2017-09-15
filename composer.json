@@ -1,5 +1,5 @@
 {
-    "name": "justinrainbow/json-schema",
+    "name": "kaizer666/json-schema",
     "description": "A library to validate a json schema.",
     "keywords": ["json", "schema"],
     "homepage": "https://github.com/justinrainbow/json-schema",
@@ -21,7 +21,11 @@
         {
             "name": "Robert Schönthal",
             "email": "seroscho@googlemail.com"
-        }
+        },
+	{
+		"name": "Kaizer",
+		"email": "kaizer@kai-zer.ru"
+	}
     ],
     "repositories": [{
         "type": "package",
