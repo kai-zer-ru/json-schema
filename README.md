@@ -1,8 +1,8 @@
 # JSON Schema for PHP
 
-[![Build Status](https://travis-ci.org/justinrainbow/json-schema.svg?branch=master)](https://travis-ci.org/justinrainbow/json-schema)
-[![Latest Stable Version](https://poser.pugx.org/justinrainbow/json-schema/v/stable.png)](https://packagist.org/packages/justinrainbow/json-schema)
-[![Total Downloads](https://poser.pugx.org/justinrainbow/json-schema/downloads.png)](https://packagist.org/packages/justinrainbow/json-schema)
+[![Build Status](https://travis-ci.org/kaizer666/json-schema.svg?branch=master)](https://travis-ci.org/kaizer666/json-schema)
+[![Latest Stable Version](https://poser.pugx.org/kaizer666/json-schema/v/stable.png)](https://packagist.org/packages/kaizer666/json-schema)
+[![Total Downloads](https://poser.pugx.org/kaizer666/json-schema/downloads.png)](https://packagist.org/packages/kaizer666/json-schema)
 
 A PHP Implementation for validating `JSON` Structures against a given `Schema`.
 
@@ -13,7 +13,7 @@ See [json-schema](http://json-schema.org/) for more details.
 ### Library
 
 ```bash
-git clone https://github.com/justinrainbow/json-schema.git
+git clone https://github.com/kaizer666/json-schema.git
 ```
 
 ### Composer
@@ -21,7 +21,7 @@ git clone https://github.com/justinrainbow/json-schema.git
 [Install PHP Composer](https://getcomposer.org/doc/00-intro.md)
 
 ```bash
-composer require justinrainbow/json-schema
+composer require kaizer666/json-schema
 ```
 
 ## Usage
