@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab6b8802-e584-40ef-a2fe-8e0ce663ca32" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.php_cs.dist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/data.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/demo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/schema.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_static/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_templates/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/conf.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/make.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpunit.xml.dist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Constraints/AdditionalPropertiesTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Constraints/ArraysTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Constraints/BaseTestCase.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Constraints/BasicTypesTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Constraints/CoerciveTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Constraints/DefaultPropertiesTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Constraints/DependenciesTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Constraints/DisallowTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Constraints/DivisibleByTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Constraints/EnumTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Constraints/ExtendsTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Constraints/FactoryTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Constraints/FormatTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Constraints/LongArraysTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Constraints/MinItemsMaxItemsTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Constraints/MinLengthMaxLengthMultiByteTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Constraints/MinLengthMaxLengthTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Constraints/MinMaxPropertiesTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Constraints/MinimumMaximumTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Constraints/NotTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Constraints/NumberAndIntegerTypesTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Constraints/OfPropertiesTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Constraints/PatternPropertiesTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Constraints/PatternTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Constraints/PointerTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Constraints/ReadOnlyTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Constraints/RequireTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Constraints/RequiredPropertyTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Constraints/SelfDefinedSchemaTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Constraints/TupleTypingTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Constraints/TypeTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Constraints/UnionTypesTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Constraints/UnionWithNullValueTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Constraints/UniqueItemsTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Constraints/ValidationExceptionTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Constraints/VeryBaseTestCase.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Constraints/WrongMessagesFailingTestCaseTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Drafts/BaseDraftTestCase.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Drafts/Draft3Test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Drafts/Draft4Test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Entity/JsonPointerTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Exception/InvalidArgumentExceptionTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Exception/InvalidSchemaMediaTypeExceptionTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Exception/InvalidSourceUriExceptionTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Exception/JsonDecodingExceptionTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Exception/ResourceNotFoundExceptionTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Exception/RuntimeExceptionTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Exception/UnresolvableJsonPointerExceptionTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Exception/UriResolverExceptionTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Rfc3339Test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/SchemaStorageTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Uri/Fixture/child.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Uri/Retrievers/FileGetContentsTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Uri/Retrievers/PredefinedArrayTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Uri/UriResolverTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Uri/UriRetrieverTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/fixtures/json-schema-draft-03.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/fixtures/json-schema-draft-04.json" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitattributes" afterPath="$PROJECT_DIR$/.gitattributes" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Validator.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JsonSchema/Validator.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-662">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>justinrainbow</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>kaizer666</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/.gitattributes" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="json-schema" type="b2602c69:ProjectViewProjectNode" />
+              <item name="json-schema" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="json-schema" type="b2602c69:ProjectViewProjectNode" />
+              <item name="json-schema" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="json-schema" type="b2602c69:ProjectViewProjectNode" />
+              <item name="json-schema" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="JsonSchema" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="json-schema" type="b2602c69:ProjectViewProjectNode" />
+              <item name="json-schema" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="JsonSchema" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Constraints" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="json-schema" type="b2602c69:ProjectViewProjectNode" />
+              <item name="json-schema" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="JsonSchema" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Exception" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="json-schema" type="b2602c69:ProjectViewProjectNode" />
+              <item name="json-schema" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="JsonSchema" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Iterator" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="json-schema" type="b2602c69:ProjectViewProjectNode" />
+              <item name="json-schema" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="JsonSchema" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Uri" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab6b8802-e584-40ef-a2fe-8e0ce663ca32" name="Default" comment="" />
+      <created>1506430977303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506430977303</updated>
+      <workItem from="1506430978501" duration="122000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="122000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="240">
+            <caret line="4" column="52" lean-forward="false" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="52" />
+            <folding>
+              <marker date="1506431100000" expanded="true" signature="1041:1104" ph="..." />
+              <marker date="1506431100000" expanded="true" signature="1112:1293" ph="..." />
+              <marker date="1506431100000" expanded="true" signature="1212:1291" ph="..." />
+              <marker date="1506431100000" expanded="false" signature="1481:1607" ph="..." />
+              <marker date="1506431100000" expanded="true" signature="1629:1684" ph="..." />
+              <marker date="1506431100000" expanded="true" signature="1709:2019" ph="..." />
+              <marker date="1506431100000" expanded="true" signature="1734:1976" ph="..." />
+              <marker date="1506431100000" expanded="true" signature="1788:1970" ph="..." />
+              <marker date="1506431100000" expanded="true" signature="1827:1874" ph="..." />
+              <marker date="1506431100000" expanded="true" signature="1914:1960" ph="..." />
+              <marker date="1506431100000" expanded="false" signature="2444:2504" ph="..." />
+              <marker date="1506431100000" expanded="true" signature="2526:2550" ph="..." />
+              <marker date="1506431100000" expanded="true" signature="2606:2872" ph="..." />
+              <marker date="1506431100000" expanded="true" signature="2634:2827" ph="..." />
+              <marker date="1506431100000" expanded="true" signature="2692:2821" ph="..." />
+              <marker date="1506431100000" expanded="true" signature="2731:2811" ph="..." />
+              <marker date="1506431100000" expanded="false" signature="3056:3143" ph="..." />
+              <marker date="1506431100000" expanded="true" signature="3168:3610" ph="..." />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-67">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1506430899000" expanded="true" signature="0:1142" ph="{&quot;name&quot;: &quot;kaizer666/json-schema&quot;...}" />
+            <marker date="1506430899000" expanded="true" signature="194:258" ph="[...]" />
+            <marker date="1506430899000" expanded="true" signature="197:252" ph="{&quot;name&quot;: &quot;Kaizer&quot;...}" />
+            <marker date="1506430899000" expanded="true" signature="280:623" ph="[...]" />
+            <marker date="1506430899000" expanded="true" signature="281:622" ph="{&quot;type&quot;: &quot;package&quot;...}" />
+            <marker date="1506430899000" expanded="true" signature="329:616" ph="{&quot;name&quot;: &quot;json-schema/JSON-Schema-Test-Suite&quot;...}" />
+            <marker date="1506430899000" expanded="true" signature="443:606" ph="{&quot;url&quot;: &quot;https://github.com/json-schema/JSON-Schema-Test-Suite&quot;...}" />
+            <marker date="1506430899000" expanded="true" signature="640:672" ph="{&quot;php&quot;: &quot;&gt;=5.3.3&quot;...}" />
+            <marker date="1506430899000" expanded="true" signature="693:882" ph="{&quot;json-schema/JSON-Schema-Test-Suite&quot;: &quot;1.2.0&quot;...}" />
+            <marker date="1506430899000" expanded="true" signature="900:962" ph="{...}" />
+            <marker date="1506430899000" expanded="true" signature="984:1044" ph="{...}" />
+            <marker date="1506430899000" expanded="true" signature="1059:1140" ph="{...}" />
+            <marker date="1506430899000" expanded="true" signature="1085:1134" ph="{&quot;dev-master&quot;: &quot;5.0.x-dev&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JsonSchema/Validator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-662">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
